@@ -3,3 +3,6 @@ I am cuurently 22 years old
 Hello this is Md Mamun
 
 I am a student of computer science
+
+today is friday
+today i want to learn git tutorial 2
